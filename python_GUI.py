@@ -11,7 +11,7 @@ from matplotlib.figure import Figure
  
 root= tk.Tk()
 
-# test
+# test 2
 canvas1 = tk.Canvas(root, width = 1000, height = 350) # create the canvas (tkinter module)
 canvas1.pack()
  
